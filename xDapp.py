@@ -7,9 +7,6 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent
 
-CACHE_FILE = str(DATA_DIR / "leaderboard_cache.json")
-HISTORY_FILE = str(DATA_DIR / "leaderboard_history.json")
-META_FILE = str(DATA_DIR / "artist_meta.json")
 
 import plotly.graph_objects as go
 import requests
@@ -18,7 +15,7 @@ from streamlit_autorefresh import st_autorefresh
 
 st.set_page_config(page_title="Now Scrobbling", page_icon="🎧", layout="wide")
 
-DATA_DIR = Path(os.getenv("NOW_SCROBBLING_DATA_DIR", "/content/drive/My Drive/lastfm_cache"))
+DATA_DIR = Path(__file__).resolve().parent
 CACHE_FILE = DATA_DIR / "leaderboard_cache.json"
 HISTORY_FILE = DATA_DIR / "leaderboard_history.json"
 META_FILE = DATA_DIR / "artist_meta.json"
