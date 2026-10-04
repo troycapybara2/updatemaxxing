@@ -1,0 +1,2408 @@
+{
+  "Clairo": {
+    "tags": [
+      "pop",
+      "indie pop",
+      "female"
+    ],
+    "moods": [
+      "moody"
+    ],
+    "energy": 2,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Hayley Williams": {
+    "tags": [
+      "female",
+      "\"elder emo\""
+    ],
+    "moods": [
+      "chill"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": 47,
+    "listen_more": true,
+    "notes": ""
+  },
+  "Since99": {
+    "tags": [
+      "white rapper",
+      "rap",
+      "meme rap"
+    ],
+    "moods": [],
+    "energy": 4,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Jorjiana": {
+    "tags": [
+      "rap",
+      "white rapper",
+      "michigan rap"
+    ],
+    "moods": [
+      "silly"
+    ],
+    "energy": 3,
+    "era": "",
+    "favorite_override": 62,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Bfb Da Packman": {
+    "tags": [
+      "michigan rap",
+      "rap"
+    ],
+    "moods": [
+      "silly"
+    ],
+    "energy": 5,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Babyface Ray": {
+    "tags": [
+      "michigan rap",
+      "rap"
+    ],
+    "moods": [
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Bay Faction": {
+    "tags": [
+      "emo"
+    ],
+    "moods": [
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Prince Daddy & The Hyena": {
+    "tags": [
+      "emo",
+      "rock",
+      "screaming"
+    ],
+    "moods": [
+      "headbanger"
+    ],
+    "energy": 5,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Ovlov": {
+    "tags": [
+      "rock"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Jack Harlow": {
+    "tags": [
+      "white rapper",
+      "rap"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Tame Impala": {
+    "tags": [
+      "psychedelic",
+      "indie pop",
+      "indie rock"
+    ],
+    "moods": [
+      "groovy"
+    ],
+    "energy": 3,
+    "era": "",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Skrilla": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "druggy",
+      "silly"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "BabyTron": {
+    "tags": [
+      "michigan rap",
+      "rap"
+    ],
+    "moods": [
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Sabrina Carpenter": {
+    "tags": [
+      "female",
+      "pop",
+      "mainstream"
+    ],
+    "moods": [
+      "girlypop"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Johnny Football Hero": {
+    "tags": [
+      "rock",
+      "post-hardcore",
+      "screaming"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "The Devil Wears Prada": {
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "moods": [
+      "Scene Kid"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Breathe Carolina": {
+    "tags": [
+      "screaming",
+      "emo pop",
+      "electronic"
+    ],
+    "moods": [
+      "Scene Kid"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "HAIM": {
+    "tags": [
+      "indie pop",
+      "female",
+      "pop",
+      "indie"
+    ],
+    "moods": [
+      "girlypop"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Seaway": {
+    "tags": [
+      "pop punk"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Taylor Swift": {
+    "tags": [
+      "pop",
+      "female"
+    ],
+    "moods": [
+      "girlypop",
+      "normie"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Small Crush": {
+    "tags": [
+      "female",
+      "indie rock"
+    ],
+    "moods": [
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Equipment": {
+    "tags": [
+      "emo",
+      "indie rock",
+      "pop punk",
+      "diy"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Addison Rae": {
+    "tags": [
+      "female",
+      "pop"
+    ],
+    "moods": [
+      "girlypop"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Ice Spice": {
+    "tags": [
+      "female",
+      "rap",
+      "meme rap"
+    ],
+    "moods": [
+      "silly"
+    ],
+    "energy": 4,
+    "era": "",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "KA$HDAMI": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Real Friends": {
+    "tags": [
+      "pop punk",
+      "emo",
+      "alternative"
+    ],
+    "moods": [
+      "angsty",
+      "khaki shorts"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "boygenius": {
+    "tags": [
+      "emo pop",
+      "indie rock",
+      "female",
+      "indie"
+    ],
+    "moods": [
+      "depressed",
+      "moody"
+    ],
+    "energy": 2,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "macseal": {
+    "tags": [
+      "emo pop",
+      "indie rock",
+      "rock"
+    ],
+    "moods": [
+      "angsty",
+      "chill"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Alex G": {
+    "tags": [
+      "indie",
+      "indie rock"
+    ],
+    "moods": [
+      "artsy",
+      "cool"
+    ],
+    "energy": 2,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil B": {
+    "tags": [
+      "meme rap",
+      "rap"
+    ],
+    "moods": [
+      "silly"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Bob Marley & The Wailers": {
+    "tags": [
+      "reggae"
+    ],
+    "moods": [
+      "bopping",
+      "druggy",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "70s",
+    "favorite_override": null,
+    "listen_more": true,
+    "notes": ""
+  },
+  "Lil Uzi Vert": {
+    "tags": [
+      "rap",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "bopping",
+      "gangster",
+      "silly",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "The Cure": {
+    "tags": [
+      "indie rock",
+      "rock",
+      "alternative"
+    ],
+    "moods": [
+      "moody"
+    ],
+    "energy": 3,
+    "era": "80s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Mac Miller": {
+    "tags": [
+      "rap",
+      "white rapper"
+    ],
+    "moods": [
+      "bopping",
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "hospital bracelet": {
+    "tags": [
+      "diy",
+      "alternative"
+    ],
+    "moods": [
+      "depressed",
+      "moody"
+    ],
+    "energy": 3,
+    "era": "",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Paul": {
+    "tags": [
+      "white rapper",
+      "rap"
+    ],
+    "moods": [
+      "druggy",
+      "artsy"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Vince Staples": {
+    "tags": [
+      "rap",
+      "west coast rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil Tracy": {
+    "tags": [
+      "soundcloud rap",
+      "rap"
+    ],
+    "moods": [
+      "druggy",
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "saturdays at your place": {
+    "tags": [
+      "diy",
+      "emo",
+      "indie rock",
+      "pop punk"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Title Fight": {
+    "tags": [
+      "post-hardcore",
+      "rock",
+      "alternative",
+      "emo"
+    ],
+    "moods": [
+      "angsty",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": true,
+    "notes": ""
+  },
+  "Gel": {
+    "tags": [
+      "rock",
+      "screaming"
+    ],
+    "moods": [
+      "headbanger"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Young Thug": {
+    "tags": [
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "druggy",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "RTB MB": {
+    "tags": [
+      "rap",
+      "michigan rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Kodak Black": {
+    "tags": [
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "gangster",
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Autumn!": {
+    "tags": [
+      "soundcloud rap",
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Remo Drive": {
+    "tags": [
+      "alternative",
+      "emo",
+      "pop punk"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Algernon Cadwallader": {
+    "tags": [
+      "emo",
+      "screaming",
+      "rock"
+    ],
+    "moods": [
+      "angsty",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "PARTYNEXTDOOR": {
+    "tags": [
+      "R&B"
+    ],
+    "moods": [
+      "moody",
+      "chill"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Origami Angel": {
+    "tags": [
+      "emo",
+      "pop punk",
+      "alternative"
+    ],
+    "moods": [
+      "silly",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Mom Jeans.": {
+    "tags": [
+      "emo",
+      "pop punk"
+    ],
+    "moods": [
+      "angsty",
+      "depressed",
+      "druggy",
+      "silly"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Hoodie Allen": {
+    "tags": [
+      "white rapper",
+      "pop"
+    ],
+    "moods": [
+      "nostalgic"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Post Malone": {
+    "tags": [
+      "R&B",
+      "white rapper",
+      "pop",
+      "mainstream"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Rich the Kid": {
+    "tags": [
+      "rap",
+      "soundcloud rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "upbeat",
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "NAV": {
+    "tags": [
+      "rap",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "depressed",
+      "chill",
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Hot Mulligan": {
+    "tags": [
+      "emo",
+      "rock",
+      "screaming",
+      "pop punk"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Drake": {
+    "tags": [
+      "rap",
+      "mainstream",
+      "R&B"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "oso oso": {
+    "tags": [
+      "emo",
+      "indie",
+      "indie rock",
+      "alternative"
+    ],
+    "moods": [
+      "chill",
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Sweet Pill": {
+    "tags": [
+      "emo",
+      "rock",
+      "female",
+      "pop punk"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Knope": {
+    "tags": [
+      "diy",
+      "emo",
+      "pop punk"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "fanclubwallet": {
+    "tags": [
+      "indie",
+      "female",
+      "indie pop"
+    ],
+    "moods": [
+      "chill",
+      "moody"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "mgk": {
+    "tags": [
+      "pop punk",
+      "white rapper"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Trippie Redd": {
+    "tags": [
+      "soundcloud rap",
+      "rap"
+    ],
+    "moods": [
+      "bopping",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Pi\u2019erre Bourne": {
+    "tags": [
+      "soundcloud rap",
+      "rap"
+    ],
+    "moods": [
+      "bopping",
+      "chill"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Luh Tyler": {
+    "tags": [
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "21 Savage": {
+    "tags": [
+      "rap",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "The Smiths": {
+    "tags": [
+      "alternative",
+      "rock"
+    ],
+    "moods": [
+      "artsy",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "80s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "DJ Lucas": {
+    "tags": [
+      "rap",
+      "white rapper",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "artsy",
+      "druggy",
+      "silly"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "YN Jay": {
+    "tags": [
+      "michigan rap",
+      "rap"
+    ],
+    "moods": [
+      "silly",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Bruno Mars": {
+    "tags": [
+      "R&B",
+      "pop",
+      "mainstream"
+    ],
+    "moods": [
+      "normie",
+      "groovy",
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Papo2oo4": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Soccer Mommy": {
+    "tags": [
+      "indie",
+      "indie pop",
+      "female",
+      "emo pop"
+    ],
+    "moods": [
+      "moody"
+    ],
+    "energy": 1,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Ogbert the Nerd": {
+    "tags": [
+      "diy",
+      "emo",
+      "screaming",
+      "rock"
+    ],
+    "moods": [
+      "angsty",
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Roddy Ricch": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Cash Cobain": {
+    "tags": [
+      "rap",
+      "drill"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil Baby": {
+    "tags": [
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Central Cee": {
+    "tags": [
+      "rap",
+      "drill"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Kendrick Lamar": {
+    "tags": [
+      "rap",
+      "west coast rap"
+    ],
+    "moods": [
+      "cool"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil Yachty": {
+    "tags": [
+      "rap",
+      "soundcloud rap",
+      "mumble rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Yponthebeat": {
+    "tags": [
+      "west coast rap",
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Future": {
+    "tags": [
+      "mumble rap",
+      "rap"
+    ],
+    "moods": [
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Jay Critch": {
+    "tags": [
+      "rap",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Just Friends": {
+    "tags": [
+      "alternative",
+      "female"
+    ],
+    "moods": [
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "With the Punches": {
+    "tags": [
+      "alternative",
+      "pop punk",
+      "rock"
+    ],
+    "moods": [
+      "nostalgic",
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "AJJ": {
+    "tags": [
+      "emo",
+      "alternative",
+      "folk punk"
+    ],
+    "moods": [
+      "angsty",
+      "depressed"
+    ],
+    "energy": 4,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "All Time Low": {
+    "tags": [
+      "alternative",
+      "pop punk"
+    ],
+    "moods": [
+      "nostalgic",
+      "silly",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Knuckle Puck": {
+    "tags": [
+      "emo",
+      "pop punk",
+      "rock",
+      "alternative"
+    ],
+    "moods": [
+      "angsty",
+      "headbanger"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Mat Kerekes": {
+    "tags": [
+      "alternative",
+      "indie"
+    ],
+    "moods": [
+      "chill",
+      "cool",
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Worst party ever": {
+    "tags": [
+      "diy",
+      "emo",
+      "indie rock"
+    ],
+    "moods": [
+      "chill",
+      "angsty",
+      "artsy",
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Tigers Jaw": {
+    "tags": [
+      "emo",
+      "indie rock",
+      "rock",
+      "alternative"
+    ],
+    "moods": [
+      "chill",
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Thundercat": {
+    "tags": [
+      "R&B"
+    ],
+    "moods": [
+      "bopping",
+      "chill",
+      "groovy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Chief Keef": {
+    "tags": [
+      "rap",
+      "drill"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Sleeping With Sirens": {
+    "tags": [
+      "post-hardcore",
+      "screaming",
+      "pop punk",
+      "alternative"
+    ],
+    "moods": [
+      "nostalgic",
+      "moody"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "blackbear": {
+    "tags": [
+      "R&B",
+      "emo pop",
+      "rap",
+      "white rapper"
+    ],
+    "moods": [
+      "angsty",
+      "depressed",
+      "nostalgic",
+      "moody"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "cr1tter": {
+    "tags": [
+      "white rapper",
+      "rap",
+      "electronic",
+      "female",
+      "hyperpop"
+    ],
+    "moods": [
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "My Chemical Romance": {
+    "tags": [
+      "\"elder emo\"",
+      "emo",
+      "rock",
+      "alternative"
+    ],
+    "moods": [
+      "Scene Kid",
+      "angsty",
+      "depressed",
+      "nostalgic"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Pop Smoke": {
+    "tags": [
+      "drill",
+      "rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Bladee": {
+    "tags": [
+      "electronic",
+      "rap",
+      "hyperpop",
+      "white rapper"
+    ],
+    "moods": [
+      "artsy",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Billie Eilish": {
+    "tags": [
+      "emo pop",
+      "pop",
+      "female"
+    ],
+    "moods": [
+      "chill"
+    ],
+    "energy": 2,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Neck Deep": {
+    "tags": [
+      "pop punk",
+      "alternative"
+    ],
+    "moods": [
+      "upbeat",
+      "khaki shorts"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Danny Brown": {
+    "tags": [
+      "rap",
+      "michigan rap"
+    ],
+    "moods": [
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "David Guetta": {
+    "tags": [
+      "electronic",
+      "mainstream"
+    ],
+    "moods": [
+      "bopping",
+      "normie",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Forever the Sickest Kids": {
+    "tags": [
+      "emo pop",
+      "pop punk",
+      "alternative"
+    ],
+    "moods": [
+      "angsty",
+      "Scene Kid",
+      "nostalgic",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Juice WRLD": {
+    "tags": [
+      "soundcloud rap",
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "druggy",
+      "bopping",
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil Mosey": {
+    "tags": [
+      "soundcloud rap",
+      "mumble rap",
+      "rap"
+    ],
+    "moods": [
+      "chill",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Migos": {
+    "tags": [
+      "rap",
+      "soundcloud rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "normie",
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Modern Baseball": {
+    "tags": [
+      "emo",
+      "pop punk",
+      "alternative"
+    ],
+    "moods": [
+      "angsty",
+      "khaki shorts"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Kehlani": {
+    "tags": [
+      "R&B",
+      "female",
+      "pop"
+    ],
+    "moods": [
+      "girlypop"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "P-Lo": {
+    "tags": [
+      "rap",
+      "west coast rap"
+    ],
+    "moods": [
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Steely Dan": {
+    "tags": [
+      "rock"
+    ],
+    "moods": [
+      "cool",
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "70s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Morgan Wallen": {
+    "tags": [
+      "mainstream",
+      "country"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Ariana Grande": {
+    "tags": [
+      "pop",
+      "female",
+      "mainstream"
+    ],
+    "moods": [
+      "bopping",
+      "normie",
+      "girlypop"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Fivio Foreign": {
+    "tags": [
+      "drill",
+      "rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Meek Mill": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Movements": {
+    "tags": [
+      "emo",
+      "post-hardcore",
+      "rock",
+      "alternative"
+    ],
+    "moods": [
+      "moody"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "The 1975": {
+    "tags": [
+      "indie",
+      "indie pop",
+      "indie rock",
+      "alternative",
+      "electronic"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "6 Dogs": {
+    "tags": [
+      "soundcloud rap",
+      "rap"
+    ],
+    "moods": [
+      "chill",
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "88GLAM": {
+    "tags": [
+      "R&B",
+      "soundcloud rap",
+      "rap",
+      "mumble rap"
+    ],
+    "moods": [
+      "chill",
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "The Beatles": {
+    "tags": [
+      "rock"
+    ],
+    "moods": [
+      "nostalgic"
+    ],
+    "energy": 3,
+    "era": "60s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "SZA": {
+    "tags": [
+      "R&B",
+      "female"
+    ],
+    "moods": [
+      "moody",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Blue Deputy": {
+    "tags": [
+      "diy",
+      "emo pop",
+      "emo",
+      "indie pop",
+      "indie"
+    ],
+    "moods": [
+      "chill",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Weird Dane": {
+    "tags": [
+      "white rapper",
+      "soundcloud rap",
+      "rap"
+    ],
+    "moods": [
+      "cool",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Chance the Rapper": {
+    "tags": [
+      "rap",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "druggy",
+      "nostalgic",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Dreamville": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Ellie Goulding": {
+    "tags": [
+      "female",
+      "pop"
+    ],
+    "moods": [
+      "chill",
+      "girlypop",
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "JAY-Z": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Babyfxce E": {
+    "tags": [
+      "rap",
+      "michigan rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Pierce the Veil": {
+    "tags": [
+      "post-hardcore",
+      "screaming",
+      "alternative"
+    ],
+    "moods": [
+      "angsty",
+      "nostalgic",
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "SahBabii": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "silly"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "The Story So Far": {
+    "tags": [
+      "pop punk",
+      "rock",
+      "alternative"
+    ],
+    "moods": [
+      "angsty",
+      "khaki shorts"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Turnover": {
+    "tags": [
+      "indie",
+      "indie rock",
+      "alternative"
+    ],
+    "moods": [
+      "chill",
+      "moody",
+      "khaki shorts"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lucy Dacus": {
+    "tags": [
+      "emo pop",
+      "female",
+      "indie",
+      "indie pop",
+      "indie rock"
+    ],
+    "moods": [
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Snail Mail": {
+    "tags": [
+      "emo pop",
+      "indie",
+      "indie pop",
+      "female"
+    ],
+    "moods": [
+      "moody"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Charli xcx": {
+    "tags": [
+      "electronic",
+      "female",
+      "pop"
+    ],
+    "moods": [
+      "druggy",
+      "cool",
+      "bopping",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "J. Cole": {
+    "tags": [
+      "mainstream",
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Yeat": {
+    "tags": [
+      "mumble rap",
+      "rap",
+      "white rapper"
+    ],
+    "moods": [
+      "druggy"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Doja Cat": {
+    "tags": [
+      "female",
+      "pop",
+      "rap"
+    ],
+    "moods": [
+      "normie",
+      "sexy"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "awakebutstillinbed": {
+    "tags": [
+      "emo",
+      "screaming"
+    ],
+    "moods": [
+      "angsty"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Kacey Musgraves": {
+    "tags": [
+      "country",
+      "female",
+      "indie pop"
+    ],
+    "moods": [
+      "chill",
+      "girlypop",
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Christ Dillinger": {
+    "tags": [
+      "rap",
+      "meme rap"
+    ],
+    "moods": [
+      "silly"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Calvin Harris": {
+    "tags": [
+      "electronic"
+    ],
+    "moods": [
+      "bopping",
+      "upbeat"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "KYLE": {
+    "tags": [
+      "R&B",
+      "rap"
+    ],
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "ShittyBoyz": {
+    "tags": [
+      "michigan rap",
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "PinkPantheress": {
+    "tags": [
+      "electronic",
+      "pop",
+      "female"
+    ],
+    "moods": [
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil' Wayne": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "druggy",
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Justin Bieber": {
+    "tags": [
+      "pop",
+      "mainstream",
+      "R&B"
+    ],
+    "moods": [
+      "nostalgic"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "YoungBoy Never Broke Again": {
+    "tags": [
+      "mumble rap",
+      "rap"
+    ],
+    "moods": [
+      "druggy",
+      "gangster"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Local News Legend": {
+    "tags": [
+      "folk punk",
+      "female"
+    ],
+    "moods": [
+      "depressed"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Joey Bada$$": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "chill",
+      "cool"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Lil Skies": {
+    "tags": [
+      "rap",
+      "soundcloud rap"
+    ],
+    "moods": [
+      "druggy",
+      "moody"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Saba": {
+    "tags": [
+      "rap",
+      "lyrical boom bap"
+    ],
+    "moods": [
+      "bopping",
+      "chill"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Tyler, The Creator": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [
+      "cool"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Beyonc\u00e9": {
+    "tags": [
+      "R&B",
+      "pop",
+      "female"
+    ],
+    "moods": [
+      "girlypop",
+      "normie"
+    ],
+    "energy": 3,
+    "era": "00s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Ed Sheeran": {
+    "tags": [
+      "mainstream",
+      "pop"
+    ],
+    "moods": [
+      "normie"
+    ],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Saweetie": {
+    "tags": [
+      "female",
+      "rap"
+    ],
+    "moods": [
+      "girlypop",
+      "sexy"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "A Tribe Called Quest": {
+    "tags": [
+      "rap",
+      "lyrical boom bap"
+    ],
+    "moods": [
+      "chill",
+      "bopping"
+    ],
+    "energy": 3,
+    "era": "90s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "cashcache!": {
+    "tags": [
+      "soundcloud rap",
+      "rap"
+    ],
+    "moods": [
+      "chill"
+    ],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "NxWorries": {
+    "tags": [
+      "R&B"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Latto": {
+    "tags": [
+      "female",
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Noah Kahan": {
+    "tags": [
+      "mainstream"
+    ],
+    "moods": [
+      "chill",
+      "nostalgic",
+      "moody"
+    ],
+    "energy": 2,
+    "era": "2020s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Earl Sweatshirt": {
+    "tags": [
+      "lyrical boom bap",
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Grateful Dead": {
+    "tags": [],
+    "moods": [],
+    "energy": 4,
+    "era": "70s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  },
+  "Kanye West": {
+    "tags": [
+      "rap"
+    ],
+    "moods": [],
+    "energy": 3,
+    "era": "10s",
+    "favorite_override": null,
+    "listen_more": false,
+    "notes": ""
+  }
+}
