@@ -5,6 +5,12 @@ import random
 from datetime import datetime
 from pathlib import Path
 
+DATA_DIR = Path(__file__).resolve().parent
+
+CACHE_FILE = str(DATA_DIR / "leaderboard_cache.json")
+HISTORY_FILE = str(DATA_DIR / "leaderboard_history.json")
+META_FILE = str(DATA_DIR / "artist_meta.json")
+
 import plotly.graph_objects as go
 import requests
 import streamlit as st
